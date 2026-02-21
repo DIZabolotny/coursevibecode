@@ -19,3 +19,5 @@
 13. `013-apps-scale-and-sovereignty.md` — приложения, масштаб и суверенитет
 14. `014-creativity-stakes-and-autonomy.md` — творчество, ставка, автономия
 15. `015-two-revolutions-and-next-steps.md` — финальная формула, 2 революции, следующие шаги
+16. `016-progression-task-parameters-to-stack.md` — прогрессия от параметров задачи к стеку инструментов
+17. `017-level-cases-escalation-matrix.md` — кейс-матрица L0-L9: задача, упор, параметр, переход

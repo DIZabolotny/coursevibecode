@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexkrol)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/old_alexeykrol)
-[![Website](https://img.shields.io/badge/Website-alexeykrol.com-111111?logo=google-chrome&logoColor=white)](https://alexeykrol.com/)л
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-111111?logo=google-chrome&logoColor=white)](https://alexeykrol.com/)
 
 
 Курс **не является решением**, он дает **навыки и знания**, с помощью которых клиенты строят свои решения. Цель курса - дать доступ к бесконечно б**о**льшим возможностям, далеко за пределами привычных чатов, научить действительно мощным инструментам и подходам.

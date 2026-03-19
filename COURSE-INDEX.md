@@ -7,7 +7,7 @@
 
 Сейчас курс состоит из нескольких слоев:
 - общая рамка и карта курса;
-- базовые уроки из первой линии материалов;
+- ранние вводные уроки из первой линии материалов;
 - вторая линия уроков, где мы собираем более глубокие и развернутые книги по агентам;
 - прикладные playbooks, которые превращают знания в повторяемые сценарии;
 - вспомогательные матрицы, программы и рабочие документы.
@@ -18,10 +18,9 @@
 
 1. Сначала прочитать главный [README.md](README.md).
 2. Затем посмотреть [L1-L10-matrix-simple.md](L1-L10-matrix-simple.md), чтобы понять общую лестницу уровней.
-3. Потом перейти к урокам в папке `1_lessons`.
-4. После этого перейти к новым углубленным материалам в папке `2_lessons`.
-5. Затем выбрать одну из двух развернутых книг: Codex или Claude Code.
-6. После базовой книги перейти к прикладным сценариям в [2_lessons/playbooks/README.md](2_lessons/playbooks/README.md).
+3. Затем перейти к актуальной линии материалов в [2_lessons/README.md](2_lessons/README.md).
+4. После этого выбрать одну из двух развернутых книг: Codex или Claude Code.
+5. Затем перейти к прикладным сценариям в [2_lessons/playbooks/README.md](2_lessons/playbooks/README.md).
 
 ## Главные файлы верхнего уровня
 
@@ -32,23 +31,16 @@
 - [course-program-selling.md](course-program-selling.md) — продающая версия программы.
 - [V5_program.md](V5_program.md) — рабочая программа курса.
 
-## Раздел 1. Базовая линия уроков
+## Раздел 1. Первая линия вводных уроков
 
 Папка: `1_lessons`
 
-Это основная существующая линия уроков.
-Там лежат отдельные сценарии уроков и сводный файл по диапазону уроков.
-
-Ключевые материалы:
-- [lessons-06-28-summary.md](1_lessons/lessons-06-28-summary.md) — обзор и сводка по линии уроков.
-- [lesson-01-script.md](1_lessons/lesson-01-script.md) — первый урок.
-- [lesson-02-script.md](1_lessons/lesson-02-script.md) — второй урок.
-- [lesson-03-script.md](1_lessons/lesson-03-script.md) — третий урок.
-- [lesson-04-script.md](1_lessons/lesson-04-script.md) — четвертый урок.
-- [lesson-05-script.md](1_lessons/lesson-05-script.md) — пятый урок.
+Это ранняя линия коротких уроков.
+Сейчас эта ветка не опубликована в репозитории как стабильный публичный раздел, поэтому в индексе на нее больше нет прямых ссылок.
 
 Примечание:
-далее в папке продолжается полная последовательность файлов `lesson-06-script.md` и дальше до [lesson-28-script.md](1_lessons/lesson-28-script.md).
+эта ветка больше не используется как основная линия курса.
+Главный актуальный маршрут сейчас проходит через [2_lessons/README.md](2_lessons/README.md).
 
 ## Раздел 2. Новая линия углубленных уроков
 
@@ -164,13 +156,12 @@
 
 1. Общий контекст: [README.md](README.md)
 2. Карта уровней: [L1-L10-matrix-simple.md](L1-L10-matrix-simple.md)
-3. Базовые уроки: папка `1_lessons`
-4. Углубленные траектории: папка `2_lessons`
-5. Развернутая книга по Codex: [2_lessons/codex-book/README.md](2_lessons/codex-book/README.md)
-6. Развернутая книга по Claude Code: [2_lessons/claude-code-book/README.md](2_lessons/claude-code-book/README.md)
-7. Прикладные сценарии: [2_lessons/playbooks/README.md](2_lessons/playbooks/README.md)
-8. Практический сравнительный гид: [2_lessons/codex-vs-claude-code-in-practice.md](2_lessons/codex-vs-claude-code-in-practice.md)
-9. После этого можно выбирать устойчивый рабочий набор под себя.
+3. Актуальная линия материалов: [2_lessons/README.md](2_lessons/README.md)
+4. Развернутая книга по Codex: [2_lessons/codex-book/README.md](2_lessons/codex-book/README.md)
+5. Развернутая книга по Claude Code: [2_lessons/claude-code-book/README.md](2_lessons/claude-code-book/README.md)
+6. Прикладные сценарии: [2_lessons/playbooks/README.md](2_lessons/playbooks/README.md)
+7. Практический сравнительный гид: [2_lessons/codex-vs-claude-code-in-practice.md](2_lessons/codex-vs-claude-code-in-practice.md)
+8. После этого можно выбирать устойчивый рабочий набор под себя.
 
 ## Как будет расти структура дальше
 

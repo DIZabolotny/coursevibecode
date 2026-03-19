@@ -30,3 +30,13 @@
 
 # Always ignore local Finder artifacts
 .DS_Store
+
+.env
+.env.*
+*credentials*
+*.pem
+*.key
+.claude/.last_session
+.claude/.session-owner
+.claude/logs/
+reports/

@@ -15,11 +15,11 @@
 
 ## Текущий статус
 
-Текущая базовая книга по Claude Code собрана полностью.
+Текущая книга по Claude Code собрана как полный базовый маршрут и уже расширена отдельной практической главой по иерархии `CLAUDE.md`, `rules` и `settings.json`.
 Она покрывает весь путь:
 - от первого знакомства с агентом;
 - до постановки задач, памяти проекта, настроек и первых правок;
-- затем до repeatable workflows, управляемой автономности, `Agent Operating System` и агентной организации.
+- затем до repeatable workflows, управляемой автономности, `Agent Operating System`, агентной организации и детальной карты иерархии инструкций и настроек.
 
 ## Главы
 
@@ -32,6 +32,7 @@
 7. [07-claude-code-autonomy-and-reliability.md](./07-claude-code-autonomy-and-reliability.md) — как повышать автономность по ступеням, не теряя надежность, границы и контроль качества.
 8. [08-claude-code-agent-operating-system.md](./08-claude-code-agent-operating-system.md) — что такое `Agent Operating System`, из каких слоев он собирается в Claude Code и как устроены `runtime baseline`, `project overlay` и `preflight`.
 9. [09-claude-code-agent-organization.md](./09-claude-code-agent-organization.md) — как из работы с одним Claude Code вырастает система ролей, делегирования, общей памяти и организационной агентности.
+10. [10-claude-code-memory-and-settings-hierarchy.md](./10-claude-code-memory-and-settings-hierarchy.md) — как вместе работают `CLAUDE.md`, `.claude/rules/`, `settings.json`, `settings.local.json`, skills и MCP на глобальном, проектном и локальном уровнях.
 
 ## Как читать книгу по порядку
 
@@ -39,7 +40,8 @@
 1. главы 1-2 — вход и постановка задач;
 2. главы 3-5 — память проекта, настройки, первые изменения и проверка;
 3. главы 6-7 — repeatable workflows, автономность и надежность;
-4. главы 8-9 — `Agent Operating System` и агентная организация.
+4. главы 8-9 — `Agent Operating System` и агентная организация;
+5. глава 10 — детальная карта иерархии инструкций, правил и настроек, когда вам уже нужен более точный контроль среды.
 
 ## Что делать после этой книги
 

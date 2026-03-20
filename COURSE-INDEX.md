@@ -25,6 +25,7 @@
 ## Главные файлы верхнего уровня
 
 - [README.md](README.md) — главный вход в курс и общий контекст.
+- [claude-code-memory-and-settings-hierarchy.md](claude-code-memory-and-settings-hierarchy.md) — подробный практический гид по иерархии `CLAUDE.md`, `rules` и `settings.json` в Claude Code.
 - [L1-L10-matrix-simple.md](L1-L10-matrix-simple.md) — упрощенная карта уровней курса.
 - [L3-L8-matrix.md](L3-L8-matrix.md) — более подробная матрица уровней среднего диапазона.
 - [course-specification.md](course-specification.md) — спецификация курса.
@@ -105,9 +106,11 @@
 - [07-claude-code-autonomy-and-reliability.md](2_lessons/claude-code-book/07-claude-code-autonomy-and-reliability.md) — рост автономности и надежности без потери контроля.
 - [08-claude-code-agent-operating-system.md](2_lessons/claude-code-book/08-claude-code-agent-operating-system.md) — устройство `Agent Operating System` вокруг Claude Code.
 - [09-claude-code-agent-organization.md](2_lessons/claude-code-book/09-claude-code-agent-organization.md) — переход от одного агента к агентной организации.
+- [10-claude-code-memory-and-settings-hierarchy.md](2_lessons/claude-code-book/10-claude-code-memory-and-settings-hierarchy.md) — как устроена иерархия `CLAUDE.md`, `.claude/rules/`, `settings.json`, `settings.local.json`, skills и MCP в Claude Code.
 
 Статус раздела:
 - текущая базовая линия книги по Claude Code завершена;
+- книга расширена дополнительной практической главой по иерархии инструкций и настроек;
 - книга готова как самостоятельный маршрут чтения.
 
 ### 2.5. Прикладные playbooks

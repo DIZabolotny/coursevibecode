@@ -19,7 +19,8 @@
 Она покрывает весь путь:
 - от первого знакомства с агентом;
 - до постановки задач, памяти проекта, настроек и первых правок;
-- затем до repeatable workflows, управляемой автономности, `Agent Operating System` и агентной организации.
+- затем до repeatable workflows, управляемой автономности, `Agent Operating System` и агентной организации;
+- и теперь дополнена отдельной главой по иерархии `AGENTS.md`, `config.toml`, `.rules` и `requirements.toml`.
 
 ## Главы
 
@@ -32,6 +33,7 @@
 7. [07-codex-autonomy-and-reliability.md](./07-codex-autonomy-and-reliability.md) — как повышать автономность по ступеням, не теряя надежность, границы и контроль качества.
 8. [08-codex-agent-operating-system.md](./08-codex-agent-operating-system.md) — что такое `Agent Operating System`, из каких слоев он собирается в Codex и как устроены `runtime baseline`, `project overlay` и `preflight`.
 9. [09-codex-agent-organization.md](./09-codex-agent-organization.md) — как из работы с одним агентом вырастает система ролей, делегирования, общей памяти и организационной агентности.
+10. [10-codex-memory-and-settings-hierarchy.md](./10-codex-memory-and-settings-hierarchy.md) — как у Codex устроены `AGENTS.md`, `.codex/config.toml`, `.rules`, `requirements.toml` и уровни ограничений.
 
 ## Как читать книгу по порядку
 
@@ -39,7 +41,8 @@
 1. главы 1-2 — вход и постановка задач;
 2. главы 3-5 — память проекта, настройки, первые изменения и проверка;
 3. главы 6-7 — repeatable workflows, автономность и надежность;
-4. главы 8-9 — `Agent Operating System` и агентная организация.
+4. главы 8-9 — `Agent Operating System` и агентная организация;
+5. глава 10 — полная карта памяти, настроек и ограничений в Codex.
 
 ## Что делать после этой книги
 

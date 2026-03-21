@@ -25,6 +25,7 @@
 ## Главные файлы верхнего уровня
 
 - [README.md](README.md) — главный вход в курс и общий контекст.
+- [codex-memory-and-settings-hierarchy.md](codex-memory-and-settings-hierarchy.md) — подробный практический гид по иерархии `AGENTS.md`, `.codex/config.toml`, `.rules` и `requirements.toml` в Codex.
 - [claude-code-memory-and-settings-hierarchy.md](claude-code-memory-and-settings-hierarchy.md) — подробный практический гид по иерархии `CLAUDE.md`, `rules` и `settings.json` в Claude Code.
 - [L1-L10-matrix-simple.md](L1-L10-matrix-simple.md) — упрощенная карта уровней курса.
 - [L3-L8-matrix.md](L3-L8-matrix.md) — более подробная матрица уровней среднего диапазона.
@@ -81,9 +82,11 @@
 - [07-codex-autonomy-and-reliability.md](2_lessons/codex-book/07-codex-autonomy-and-reliability.md) — рост автономности и надежности без потери контроля.
 - [08-codex-agent-operating-system.md](2_lessons/codex-book/08-codex-agent-operating-system.md) — устройство `Agent Operating System` вокруг Codex.
 - [09-codex-agent-organization.md](2_lessons/codex-book/09-codex-agent-organization.md) — переход от одного агента к агентной организации.
+- [10-codex-memory-and-settings-hierarchy.md](2_lessons/codex-book/10-codex-memory-and-settings-hierarchy.md) — как устроены `AGENTS.md`, `.codex/config.toml`, `.rules` и организационные уровни ограничений в Codex.
 
 Статус раздела:
 - текущая базовая линия книги по Codex завершена;
+- книга расширена дополнительной практической главой по иерархии инструкций, настроек и ограничений;
 - книга готова как самостоятельный маршрут чтения.
 
 ### 2.4. Книга по Claude Code

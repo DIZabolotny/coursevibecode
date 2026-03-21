@@ -12,7 +12,7 @@
 
 ### Полные книги
 
-- [codex-book/README.md](./codex-book/README.md) — полная книга по Codex.
+- [codex-book/README.md](./codex-book/README.md) — полная книга по Codex, теперь и с отдельной главой про иерархию `AGENTS.md`, `config.toml`, `.rules` и организационных ограничений.
 - [claude-code-book/README.md](./claude-code-book/README.md) — полная книга по Claude Code, включая отдельную практическую главу по иерархии `CLAUDE.md`, `rules` и `settings.json`.
 
 ### Практический сравнительный гид
@@ -35,6 +35,7 @@
 ## Быстрый выбор
 
 - Если вы хотите сначала понять экосистему OpenAI и Codex, начните с [codex-book/README.md](./codex-book/README.md).
+- Если вам нужен отдельный standalone-разбор по Codex, откройте root guide [../codex-memory-and-settings-hierarchy.md](../codex-memory-and-settings-hierarchy.md).
 - Если вам ближе экосистема Anthropic и Claude Code, начните с [claude-code-book/README.md](./claude-code-book/README.md). В этой книге теперь есть и отдельная глава про иерархию `CLAUDE.md`, `rules`, `settings.json`, `settings.local.json`, skills и MCP.
 - Если вы уже поняли основы и хотите готовые сценарии работы, идите в [playbooks/README.md](./playbooks/README.md). Там уже есть ветка не только для первых шагов, но и для регулярного недельного производства материалов, сборки устойчивых проектных инструкций, безопасного роста автономности и минимальной агентной организации.
 - Если вы уже хотите не просто читать, а осознанно выбрать основную среду, откройте [codex-vs-claude-code-in-practice.md](./codex-vs-claude-code-in-practice.md).

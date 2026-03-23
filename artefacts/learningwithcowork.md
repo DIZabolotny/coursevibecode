@@ -53,7 +53,7 @@
 6. Создать папку на диске (имя вашей папки для курсов)
 7. Внутри папки создать подпапку .claude
 8. Создать в корне файл CLAUDE.md и положить в него содержимое файла [CLAUDE.md](https://github.com/alexeykrol/coursevibecode/blob/main/artefacts/CLAUDE.md)
-9. Подправьте раздел (https://github.com/alexeykrol/coursevibecode/blob/main/artefacts/CLAUDE.md#active-courses) под себя или дайте ссылку на файл с перечнями/ URL курсов, чтобы CoWork сам находил нужный курс.
+9. Подправьте [раздел](https://github.com/alexeykrol/coursevibecode/blob/main/artefacts/CLAUDE.md#active-courses) под себя или дайте ссылку на файл с перечнями/ URL курсов, чтобы CoWork сам находил нужный курс.
 10. В папке .claude создать файл setting.json и положить в него содержимое файла [setting.json](https://github.com/alexeykrol/coursevibecode/blob/main/artefacts/setting.json)
 
 

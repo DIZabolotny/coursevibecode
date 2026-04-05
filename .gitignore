@@ -3,25 +3,20 @@
 
 # Keep tracked essentials
 !.gitignore
-!README
 !README.md
-!CHANGELOG.md
-!L1-L10-matrix-simple.md
-!claude-code-memory-and-settings-hierarchy.md
-!codex-memory-and-settings-hierarchy.md
+!CLAUDE.md
+!AGENTS.md
+!manifest.md
 
-# Keep lesson books and indexes
-!COURSE-INDEX.md
-!2_lessons/
-!2_lessons/*.md
-!2_lessons/codex-book/
-!2_lessons/codex-book/*.md
-!2_lessons/claude-code-book/
-!2_lessons/claude-code-book/*.md
-!2_lessons/playbooks/
-!2_lessons/playbooks/*.md
+# Keep courses directory (all content)
+!courses/
+!courses/**
 
-# Keep framework memory docs
+# Keep framework
+!.framework/
+!.framework/**
+
+# Keep Claude config (selective)
 !.claude/
 !.claude/SNAPSHOT.md
 !.claude/BACKLOG.md
@@ -29,14 +24,13 @@
 !.claude/ROADMAP.md
 !.claude/IDEAS.md
 !.claude/SESSION-HANDOFF.md
+!.claude/rules/
+!.claude/rules/*.md
 
-# Always ignore local Finder artifacts
+# Always ignore
 .DS_Store
-
-# Claude Code local permissions and local credential bundles must never be committed
 .claude/settings.local.json
 .production-credentials
-
 .env
 .env.*
 *credentials*
